@@ -1,1 +1,3 @@
-# mern_project
+# Name project
+MERN social app
+
